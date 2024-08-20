@@ -9,4 +9,4 @@ Then using Google Colab open the Form5_form_generator_colab_version.ipynb and pr
 
 You are then asked to upload a file, upload your completed xlsx.
 
-There is python code code in the Excel_to_Form_5_v1.py but this is only to be used when you are runnng a computer which won't have it systems blocking the installation of packages.
+There is python code code in the Excel_to_Form_5_v1.py but this is only to be used when you are runnng a computer which won't have security systems blocking the installation of additional packages on your C drive.
