@@ -1,5 +1,5 @@
 
-This tool allows you to export the fields required in an estates form 5 having filled in the fields of the form in a master spreadsheet.
+This tool allows you to export the fields required in an estates form 5 and generate multiple documents, having filled in the fields of the form in a master spreadsheet.
 
 To use the form 5 generator, first download XXXX_ Form5_workbook_template.xlsx to your C drive
 
